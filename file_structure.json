@@ -1,0 +1,2762 @@
+{
+  "type": "folder",
+  "name": "05 06 2025 - dalle",
+  "children": [
+    {
+      "type": "folder",
+      "name": " cat 023 painted scene",
+      "children": [
+        {
+          "type": "file",
+          "name": "0103.png",
+          "thumb": "thumbs/ cat 023 painted scene/0103.png"
+        },
+        {
+          "type": "file",
+          "name": "0104.png",
+          "thumb": "thumbs/ cat 023 painted scene/0104.png"
+        },
+        {
+          "type": "file",
+          "name": "0105.png",
+          "thumb": "thumbs/ cat 023 painted scene/0105.png"
+        },
+        {
+          "type": "file",
+          "name": "0106.png",
+          "thumb": "thumbs/ cat 023 painted scene/0106.png"
+        },
+        {
+          "type": "file",
+          "name": "0107.png",
+          "thumb": "thumbs/ cat 023 painted scene/0107.png"
+        },
+        {
+          "type": "file",
+          "name": "0108.png",
+          "thumb": "thumbs/ cat 023 painted scene/0108.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": ".git",
+      "children": [
+        {
+          "type": "folder",
+          "name": "hooks",
+          "children": []
+        },
+        {
+          "type": "folder",
+          "name": "info",
+          "children": []
+        },
+        {
+          "type": "folder",
+          "name": "logs",
+          "children": [
+            {
+              "type": "folder",
+              "name": "refs",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "heads",
+                  "children": []
+                },
+                {
+                  "type": "folder",
+                  "name": "remotes",
+                  "children": [
+                    {
+                      "type": "folder",
+                      "name": "origin",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "objects",
+          "children": [
+            {
+              "type": "folder",
+              "name": "00",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "01",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "03",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "04",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "05",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "06",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "07",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "08",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "09",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "0a",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "0b",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "0c",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "0d",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "0e",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "0f",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "10",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "11",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "12",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "13",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "14",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "15",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "16",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "17",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "18",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "19",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "1b",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "1c",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "1d",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "1e",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "1f",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "20",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "21",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "22",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "23",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "24",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "25",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "26",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "27",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "28",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "29",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "2a",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "2b",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "2c",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "2d",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "2e",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "2f",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "30",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "31",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "32",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "33",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "34",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "35",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "36",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "37",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "38",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "39",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "3a",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "3b",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "3c",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "3d",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "3e",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "3f",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "40",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "41",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "42",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "43",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "44",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "45",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "46",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "47",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "48",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "49",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "4a",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "4b",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "4c",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "4d",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "4e",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "4f",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "50",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "51",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "52",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "53",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "54",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "55",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "56",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "57",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "58",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "5a",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "5b",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "5c",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "5d",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "5e",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "5f",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "60",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "62",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "64",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "65",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "66",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "67",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "68",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "69",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "6a",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "6b",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "6c",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "6d",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "6e",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "6f",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "70",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "71",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "72",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "73",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "74",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "75",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "76",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "77",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "78",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "79",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "7a",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "7b",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "7c",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "7d",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "7e",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "7f",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "80",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "81",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "82",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "83",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "84",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "85",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "86",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "87",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "88",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "89",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "8a",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "8b",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "8d",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "8e",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "8f",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "90",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "91",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "92",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "94",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "95",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "96",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "97",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "98",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "99",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "9a",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "9b",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "9c",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "9d",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "9e",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "9f",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "a0",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "a2",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "a3",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "a4",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "a6",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "a7",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "a9",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "aa",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "ab",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "ac",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "ad",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "ae",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "af",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "b0",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "b1",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "b2",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "b3",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "b5",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "b6",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "b7",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "b8",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "b9",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "ba",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "bb",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "bd",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "be",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "bf",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "c0",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "c2",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "c3",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "c4",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "c5",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "c6",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "c7",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "c8",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "c9",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "ca",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "cb",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "cc",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "cd",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "cf",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "d0",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "d1",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "d2",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "d3",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "d4",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "d5",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "d6",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "d7",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "d8",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "d9",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "da",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "db",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "dc",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "dd",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "de",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "df",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "e0",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "e1",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "e2",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "e3",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "e4",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "e5",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "e6",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "e7",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "e8",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "e9",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "ea",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "ec",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "ed",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "ee",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "ef",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "f0",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "f1",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "f2",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "f3",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "f4",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "f5",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "f6",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "f7",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "f8",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "f9",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "fa",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "fb",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "fd",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "fe",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "ff",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "info",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "pack",
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "refs",
+          "children": [
+            {
+              "type": "folder",
+              "name": "heads",
+              "children": []
+            },
+            {
+              "type": "folder",
+              "name": "remotes",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "origin",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "tags",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 001 newspaper",
+      "children": [
+        {
+          "type": "file",
+          "name": "0240.png",
+          "thumb": "thumbs/cat 001 newspaper/0240.png"
+        },
+        {
+          "type": "file",
+          "name": "0241.png",
+          "thumb": "thumbs/cat 001 newspaper/0241.png"
+        },
+        {
+          "type": "file",
+          "name": "0242.png",
+          "thumb": "thumbs/cat 001 newspaper/0242.png"
+        },
+        {
+          "type": "file",
+          "name": "0243.png",
+          "thumb": "thumbs/cat 001 newspaper/0243.png"
+        },
+        {
+          "type": "file",
+          "name": "0244.png",
+          "thumb": "thumbs/cat 001 newspaper/0244.png"
+        },
+        {
+          "type": "file",
+          "name": "0245.png",
+          "thumb": "thumbs/cat 001 newspaper/0245.png"
+        },
+        {
+          "type": "file",
+          "name": "0246.png",
+          "thumb": "thumbs/cat 001 newspaper/0246.png"
+        },
+        {
+          "type": "file",
+          "name": "0247.png",
+          "thumb": "thumbs/cat 001 newspaper/0247.png"
+        },
+        {
+          "type": "file",
+          "name": "0248.png",
+          "thumb": "thumbs/cat 001 newspaper/0248.png"
+        },
+        {
+          "type": "file",
+          "name": "0249.png",
+          "thumb": "thumbs/cat 001 newspaper/0249.png"
+        },
+        {
+          "type": "file",
+          "name": "0250.png",
+          "thumb": "thumbs/cat 001 newspaper/0250.png"
+        },
+        {
+          "type": "file",
+          "name": "0251.png",
+          "thumb": "thumbs/cat 001 newspaper/0251.png"
+        },
+        {
+          "type": "file",
+          "name": "0252.png",
+          "thumb": "thumbs/cat 001 newspaper/0252.png"
+        },
+        {
+          "type": "file",
+          "name": "0253.png",
+          "thumb": "thumbs/cat 001 newspaper/0253.png"
+        },
+        {
+          "type": "file",
+          "name": "0254.png",
+          "thumb": "thumbs/cat 001 newspaper/0254.png"
+        },
+        {
+          "type": "file",
+          "name": "0255.png",
+          "thumb": "thumbs/cat 001 newspaper/0255.png"
+        },
+        {
+          "type": "file",
+          "name": "0256.png",
+          "thumb": "thumbs/cat 001 newspaper/0256.png"
+        },
+        {
+          "type": "file",
+          "name": "0257.png",
+          "thumb": "thumbs/cat 001 newspaper/0257.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 002 xcopy",
+      "children": [
+        {
+          "type": "file",
+          "name": "0258.png",
+          "thumb": "thumbs/cat 002 xcopy/0258.png"
+        },
+        {
+          "type": "file",
+          "name": "0259.png",
+          "thumb": "thumbs/cat 002 xcopy/0259.png"
+        },
+        {
+          "type": "file",
+          "name": "0260.png",
+          "thumb": "thumbs/cat 002 xcopy/0260.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 003 abstract",
+      "children": [
+        {
+          "type": "file",
+          "name": "0261.png",
+          "thumb": "thumbs/cat 003 abstract/0261.png"
+        },
+        {
+          "type": "file",
+          "name": "0262.png",
+          "thumb": "thumbs/cat 003 abstract/0262.png"
+        },
+        {
+          "type": "file",
+          "name": "0263.png",
+          "thumb": "thumbs/cat 003 abstract/0263.png"
+        },
+        {
+          "type": "file",
+          "name": "0264.png",
+          "thumb": "thumbs/cat 003 abstract/0264.png"
+        },
+        {
+          "type": "file",
+          "name": "0265.png",
+          "thumb": "thumbs/cat 003 abstract/0265.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 004 bandw",
+      "children": [
+        {
+          "type": "file",
+          "name": "0145.png",
+          "thumb": "thumbs/cat 004 bandw/0145.png"
+        },
+        {
+          "type": "file",
+          "name": "0146.png",
+          "thumb": "thumbs/cat 004 bandw/0146.png"
+        },
+        {
+          "type": "file",
+          "name": "0147.png",
+          "thumb": "thumbs/cat 004 bandw/0147.png"
+        },
+        {
+          "type": "file",
+          "name": "0148.png",
+          "thumb": "thumbs/cat 004 bandw/0148.png"
+        },
+        {
+          "type": "file",
+          "name": "0149.png",
+          "thumb": "thumbs/cat 004 bandw/0149.png"
+        },
+        {
+          "type": "file",
+          "name": "0150.png",
+          "thumb": "thumbs/cat 004 bandw/0150.png"
+        },
+        {
+          "type": "file",
+          "name": "0151.png",
+          "thumb": "thumbs/cat 004 bandw/0151.png"
+        },
+        {
+          "type": "file",
+          "name": "0152.png",
+          "thumb": "thumbs/cat 004 bandw/0152.png"
+        },
+        {
+          "type": "file",
+          "name": "0153.png",
+          "thumb": "thumbs/cat 004 bandw/0153.png"
+        },
+        {
+          "type": "file",
+          "name": "0154.png",
+          "thumb": "thumbs/cat 004 bandw/0154.png"
+        },
+        {
+          "type": "file",
+          "name": "0155.png",
+          "thumb": "thumbs/cat 004 bandw/0155.png"
+        },
+        {
+          "type": "file",
+          "name": "0156.png",
+          "thumb": "thumbs/cat 004 bandw/0156.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 005 men faceless",
+      "children": [
+        {
+          "type": "file",
+          "name": "0134.png",
+          "thumb": "thumbs/cat 005 men faceless/0134.png"
+        },
+        {
+          "type": "file",
+          "name": "0135.png",
+          "thumb": "thumbs/cat 005 men faceless/0135.png"
+        },
+        {
+          "type": "file",
+          "name": "0136.png",
+          "thumb": "thumbs/cat 005 men faceless/0136.png"
+        },
+        {
+          "type": "file",
+          "name": "0137.png",
+          "thumb": "thumbs/cat 005 men faceless/0137.png"
+        },
+        {
+          "type": "file",
+          "name": "0138.png",
+          "thumb": "thumbs/cat 005 men faceless/0138.png"
+        },
+        {
+          "type": "file",
+          "name": "0139.png",
+          "thumb": "thumbs/cat 005 men faceless/0139.png"
+        },
+        {
+          "type": "file",
+          "name": "0140.png",
+          "thumb": "thumbs/cat 005 men faceless/0140.png"
+        },
+        {
+          "type": "file",
+          "name": "0141.png",
+          "thumb": "thumbs/cat 005 men faceless/0141.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 006 cars",
+      "children": [
+        {
+          "type": "file",
+          "name": "0161.png",
+          "thumb": "thumbs/cat 006 cars/0161.png"
+        },
+        {
+          "type": "file",
+          "name": "0162.png",
+          "thumb": "thumbs/cat 006 cars/0162.png"
+        },
+        {
+          "type": "file",
+          "name": "0163.png",
+          "thumb": "thumbs/cat 006 cars/0163.png"
+        },
+        {
+          "type": "file",
+          "name": "0164.png",
+          "thumb": "thumbs/cat 006 cars/0164.png"
+        },
+        {
+          "type": "file",
+          "name": "0165.png",
+          "thumb": "thumbs/cat 006 cars/0165.png"
+        },
+        {
+          "type": "file",
+          "name": "0166.png",
+          "thumb": "thumbs/cat 006 cars/0166.png"
+        },
+        {
+          "type": "file",
+          "name": "0167.png",
+          "thumb": "thumbs/cat 006 cars/0167.png"
+        },
+        {
+          "type": "file",
+          "name": "0168.png",
+          "thumb": "thumbs/cat 006 cars/0168.png"
+        },
+        {
+          "type": "file",
+          "name": "0169.png",
+          "thumb": "thumbs/cat 006 cars/0169.png"
+        },
+        {
+          "type": "file",
+          "name": "0170.png",
+          "thumb": "thumbs/cat 006 cars/0170.png"
+        },
+        {
+          "type": "file",
+          "name": "0171.png",
+          "thumb": "thumbs/cat 006 cars/0171.png"
+        },
+        {
+          "type": "file",
+          "name": "0172.png",
+          "thumb": "thumbs/cat 006 cars/0172.png"
+        },
+        {
+          "type": "file",
+          "name": "0173.png",
+          "thumb": "thumbs/cat 006 cars/0173.png"
+        },
+        {
+          "type": "file",
+          "name": "0174.png",
+          "thumb": "thumbs/cat 006 cars/0174.png"
+        },
+        {
+          "type": "file",
+          "name": "0175.png",
+          "thumb": "thumbs/cat 006 cars/0175.png"
+        },
+        {
+          "type": "file",
+          "name": "0176.png",
+          "thumb": "thumbs/cat 006 cars/0176.png"
+        },
+        {
+          "type": "file",
+          "name": "0177.png",
+          "thumb": "thumbs/cat 006 cars/0177.png"
+        },
+        {
+          "type": "file",
+          "name": "0178.png",
+          "thumb": "thumbs/cat 006 cars/0178.png"
+        },
+        {
+          "type": "file",
+          "name": "0179.png",
+          "thumb": "thumbs/cat 006 cars/0179.png"
+        },
+        {
+          "type": "file",
+          "name": "0180.png",
+          "thumb": "thumbs/cat 006 cars/0180.png"
+        },
+        {
+          "type": "file",
+          "name": "0181.png",
+          "thumb": "thumbs/cat 006 cars/0181.png"
+        },
+        {
+          "type": "file",
+          "name": "0182.png",
+          "thumb": "thumbs/cat 006 cars/0182.png"
+        },
+        {
+          "type": "file",
+          "name": "0183.png",
+          "thumb": "thumbs/cat 006 cars/0183.png"
+        },
+        {
+          "type": "file",
+          "name": "0184.png",
+          "thumb": "thumbs/cat 006 cars/0184.png"
+        },
+        {
+          "type": "file",
+          "name": "0185.png",
+          "thumb": "thumbs/cat 006 cars/0185.png"
+        },
+        {
+          "type": "file",
+          "name": "0186.png",
+          "thumb": "thumbs/cat 006 cars/0186.png"
+        },
+        {
+          "type": "file",
+          "name": "0187.png",
+          "thumb": "thumbs/cat 006 cars/0187.png"
+        },
+        {
+          "type": "file",
+          "name": "0188.png",
+          "thumb": "thumbs/cat 006 cars/0188.png"
+        },
+        {
+          "type": "file",
+          "name": "0189.png",
+          "thumb": "thumbs/cat 006 cars/0189.png"
+        },
+        {
+          "type": "file",
+          "name": "0190.png",
+          "thumb": "thumbs/cat 006 cars/0190.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 007 portraits01",
+      "children": [
+        {
+          "type": "file",
+          "name": "0127.png",
+          "thumb": "thumbs/cat 007 portraits01/0127.png"
+        },
+        {
+          "type": "file",
+          "name": "0128.png",
+          "thumb": "thumbs/cat 007 portraits01/0128.png"
+        },
+        {
+          "type": "file",
+          "name": "0129.png",
+          "thumb": "thumbs/cat 007 portraits01/0129.png"
+        },
+        {
+          "type": "file",
+          "name": "0130.png",
+          "thumb": "thumbs/cat 007 portraits01/0130.png"
+        },
+        {
+          "type": "file",
+          "name": "0131.png",
+          "thumb": "thumbs/cat 007 portraits01/0131.png"
+        },
+        {
+          "type": "file",
+          "name": "0132.png",
+          "thumb": "thumbs/cat 007 portraits01/0132.png"
+        },
+        {
+          "type": "file",
+          "name": "0133.png",
+          "thumb": "thumbs/cat 007 portraits01/0133.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 008 portraits02",
+      "children": [
+        {
+          "type": "file",
+          "name": "0191.png",
+          "thumb": "thumbs/cat 008 portraits02/0191.png"
+        },
+        {
+          "type": "file",
+          "name": "0192.png",
+          "thumb": "thumbs/cat 008 portraits02/0192.png"
+        },
+        {
+          "type": "file",
+          "name": "0193.png",
+          "thumb": "thumbs/cat 008 portraits02/0193.png"
+        },
+        {
+          "type": "file",
+          "name": "0194.png",
+          "thumb": "thumbs/cat 008 portraits02/0194.png"
+        },
+        {
+          "type": "file",
+          "name": "0195.png",
+          "thumb": "thumbs/cat 008 portraits02/0195.png"
+        },
+        {
+          "type": "file",
+          "name": "0196.png",
+          "thumb": "thumbs/cat 008 portraits02/0196.png"
+        },
+        {
+          "type": "file",
+          "name": "0197.png",
+          "thumb": "thumbs/cat 008 portraits02/0197.png"
+        },
+        {
+          "type": "file",
+          "name": "0198.png",
+          "thumb": "thumbs/cat 008 portraits02/0198.png"
+        },
+        {
+          "type": "file",
+          "name": "0199.png",
+          "thumb": "thumbs/cat 008 portraits02/0199.png"
+        },
+        {
+          "type": "file",
+          "name": "0200.png",
+          "thumb": "thumbs/cat 008 portraits02/0200.png"
+        },
+        {
+          "type": "file",
+          "name": "0201.png",
+          "thumb": "thumbs/cat 008 portraits02/0201.png"
+        },
+        {
+          "type": "file",
+          "name": "0202.png",
+          "thumb": "thumbs/cat 008 portraits02/0202.png"
+        },
+        {
+          "type": "file",
+          "name": "0203.png",
+          "thumb": "thumbs/cat 008 portraits02/0203.png"
+        },
+        {
+          "type": "file",
+          "name": "0204.png",
+          "thumb": "thumbs/cat 008 portraits02/0204.png"
+        },
+        {
+          "type": "file",
+          "name": "0205.png",
+          "thumb": "thumbs/cat 008 portraits02/0205.png"
+        },
+        {
+          "type": "file",
+          "name": "0206.png",
+          "thumb": "thumbs/cat 008 portraits02/0206.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 009 observing self",
+      "children": [
+        {
+          "type": "file",
+          "name": "0006.png",
+          "thumb": "thumbs/cat 009 observing self/0006.png"
+        },
+        {
+          "type": "file",
+          "name": "0007.png",
+          "thumb": "thumbs/cat 009 observing self/0007.png"
+        },
+        {
+          "type": "file",
+          "name": "0008.png",
+          "thumb": "thumbs/cat 009 observing self/0008.png"
+        },
+        {
+          "type": "file",
+          "name": "0009.png",
+          "thumb": "thumbs/cat 009 observing self/0009.png"
+        },
+        {
+          "type": "file",
+          "name": "0010.png",
+          "thumb": "thumbs/cat 009 observing self/0010.png"
+        },
+        {
+          "type": "file",
+          "name": "0011.png",
+          "thumb": "thumbs/cat 009 observing self/0011.png"
+        },
+        {
+          "type": "file",
+          "name": "0012.png",
+          "thumb": "thumbs/cat 009 observing self/0012.png"
+        },
+        {
+          "type": "file",
+          "name": "0013.png",
+          "thumb": "thumbs/cat 009 observing self/0013.png"
+        },
+        {
+          "type": "file",
+          "name": "0014.png",
+          "thumb": "thumbs/cat 009 observing self/0014.png"
+        },
+        {
+          "type": "file",
+          "name": "0015.png",
+          "thumb": "thumbs/cat 009 observing self/0015.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 010 portraits03",
+      "children": [
+        {
+          "type": "file",
+          "name": "0021.png",
+          "thumb": "thumbs/cat 010 portraits03/0021.png"
+        },
+        {
+          "type": "file",
+          "name": "0022.png",
+          "thumb": "thumbs/cat 010 portraits03/0022.png"
+        },
+        {
+          "type": "file",
+          "name": "0023.png",
+          "thumb": "thumbs/cat 010 portraits03/0023.png"
+        },
+        {
+          "type": "file",
+          "name": "0024.png",
+          "thumb": "thumbs/cat 010 portraits03/0024.png"
+        },
+        {
+          "type": "file",
+          "name": "0025.png",
+          "thumb": "thumbs/cat 010 portraits03/0025.png"
+        },
+        {
+          "type": "file",
+          "name": "0026.png",
+          "thumb": "thumbs/cat 010 portraits03/0026.png"
+        },
+        {
+          "type": "file",
+          "name": "0027.png",
+          "thumb": "thumbs/cat 010 portraits03/0027.png"
+        },
+        {
+          "type": "file",
+          "name": "0028.png",
+          "thumb": "thumbs/cat 010 portraits03/0028.png"
+        },
+        {
+          "type": "file",
+          "name": "0029.png",
+          "thumb": "thumbs/cat 010 portraits03/0029.png"
+        },
+        {
+          "type": "file",
+          "name": "0030.png",
+          "thumb": "thumbs/cat 010 portraits03/0030.png"
+        },
+        {
+          "type": "file",
+          "name": "0031.png",
+          "thumb": "thumbs/cat 010 portraits03/0031.png"
+        },
+        {
+          "type": "file",
+          "name": "0032.png",
+          "thumb": "thumbs/cat 010 portraits03/0032.png"
+        },
+        {
+          "type": "file",
+          "name": "0033.png",
+          "thumb": "thumbs/cat 010 portraits03/0033.png"
+        },
+        {
+          "type": "file",
+          "name": "0034.png",
+          "thumb": "thumbs/cat 010 portraits03/0034.png"
+        },
+        {
+          "type": "file",
+          "name": "0035.png",
+          "thumb": "thumbs/cat 010 portraits03/0035.png"
+        },
+        {
+          "type": "file",
+          "name": "0036.png",
+          "thumb": "thumbs/cat 010 portraits03/0036.png"
+        },
+        {
+          "type": "file",
+          "name": "0037.png",
+          "thumb": "thumbs/cat 010 portraits03/0037.png"
+        },
+        {
+          "type": "file",
+          "name": "0038.png",
+          "thumb": "thumbs/cat 010 portraits03/0038.png"
+        },
+        {
+          "type": "file",
+          "name": "0039.png",
+          "thumb": "thumbs/cat 010 portraits03/0039.png"
+        },
+        {
+          "type": "file",
+          "name": "0040.png",
+          "thumb": "thumbs/cat 010 portraits03/0040.png"
+        },
+        {
+          "type": "file",
+          "name": "0041.png",
+          "thumb": "thumbs/cat 010 portraits03/0041.png"
+        },
+        {
+          "type": "file",
+          "name": "0042.png",
+          "thumb": "thumbs/cat 010 portraits03/0042.png"
+        },
+        {
+          "type": "file",
+          "name": "0043.png",
+          "thumb": "thumbs/cat 010 portraits03/0043.png"
+        },
+        {
+          "type": "file",
+          "name": "0044.png",
+          "thumb": "thumbs/cat 010 portraits03/0044.png"
+        },
+        {
+          "type": "file",
+          "name": "0045.png",
+          "thumb": "thumbs/cat 010 portraits03/0045.png"
+        },
+        {
+          "type": "file",
+          "name": "0046.png",
+          "thumb": "thumbs/cat 010 portraits03/0046.png"
+        },
+        {
+          "type": "file",
+          "name": "0047.png",
+          "thumb": "thumbs/cat 010 portraits03/0047.png"
+        },
+        {
+          "type": "file",
+          "name": "0048.png",
+          "thumb": "thumbs/cat 010 portraits03/0048.png"
+        },
+        {
+          "type": "file",
+          "name": "0049.png",
+          "thumb": "thumbs/cat 010 portraits03/0049.png"
+        },
+        {
+          "type": "file",
+          "name": "0050.png",
+          "thumb": "thumbs/cat 010 portraits03/0050.png"
+        },
+        {
+          "type": "file",
+          "name": "0051.png",
+          "thumb": "thumbs/cat 010 portraits03/0051.png"
+        },
+        {
+          "type": "file",
+          "name": "0052.png",
+          "thumb": "thumbs/cat 010 portraits03/0052.png"
+        },
+        {
+          "type": "file",
+          "name": "0053.png",
+          "thumb": "thumbs/cat 010 portraits03/0053.png"
+        },
+        {
+          "type": "file",
+          "name": "0054.png",
+          "thumb": "thumbs/cat 010 portraits03/0054.png"
+        },
+        {
+          "type": "file",
+          "name": "0055.png",
+          "thumb": "thumbs/cat 010 portraits03/0055.png"
+        },
+        {
+          "type": "file",
+          "name": "0056.png",
+          "thumb": "thumbs/cat 010 portraits03/0056.png"
+        },
+        {
+          "type": "file",
+          "name": "0057.png",
+          "thumb": "thumbs/cat 010 portraits03/0057.png"
+        },
+        {
+          "type": "file",
+          "name": "0058.png",
+          "thumb": "thumbs/cat 010 portraits03/0058.png"
+        },
+        {
+          "type": "file",
+          "name": "0059.png",
+          "thumb": "thumbs/cat 010 portraits03/0059.png"
+        },
+        {
+          "type": "file",
+          "name": "0060.png",
+          "thumb": "thumbs/cat 010 portraits03/0060.png"
+        },
+        {
+          "type": "file",
+          "name": "0061.png",
+          "thumb": "thumbs/cat 010 portraits03/0061.png"
+        },
+        {
+          "type": "file",
+          "name": "0062.png",
+          "thumb": "thumbs/cat 010 portraits03/0062.png"
+        },
+        {
+          "type": "file",
+          "name": "0063.png",
+          "thumb": "thumbs/cat 010 portraits03/0063.png"
+        },
+        {
+          "type": "file",
+          "name": "0064.png",
+          "thumb": "thumbs/cat 010 portraits03/0064.png"
+        },
+        {
+          "type": "file",
+          "name": "0065.png",
+          "thumb": "thumbs/cat 010 portraits03/0065.png"
+        },
+        {
+          "type": "file",
+          "name": "0066.png",
+          "thumb": "thumbs/cat 010 portraits03/0066.png"
+        },
+        {
+          "type": "file",
+          "name": "0067.png",
+          "thumb": "thumbs/cat 010 portraits03/0067.png"
+        },
+        {
+          "type": "file",
+          "name": "0068.png",
+          "thumb": "thumbs/cat 010 portraits03/0068.png"
+        },
+        {
+          "type": "file",
+          "name": "0069.png",
+          "thumb": "thumbs/cat 010 portraits03/0069.png"
+        },
+        {
+          "type": "file",
+          "name": "0070.png",
+          "thumb": "thumbs/cat 010 portraits03/0070.png"
+        },
+        {
+          "type": "file",
+          "name": "0071.png",
+          "thumb": "thumbs/cat 010 portraits03/0071.png"
+        },
+        {
+          "type": "file",
+          "name": "0072.png",
+          "thumb": "thumbs/cat 010 portraits03/0072.png"
+        },
+        {
+          "type": "file",
+          "name": "0073.png",
+          "thumb": "thumbs/cat 010 portraits03/0073.png"
+        },
+        {
+          "type": "file",
+          "name": "0074.png",
+          "thumb": "thumbs/cat 010 portraits03/0074.png"
+        },
+        {
+          "type": "file",
+          "name": "0075.png",
+          "thumb": "thumbs/cat 010 portraits03/0075.png"
+        },
+        {
+          "type": "file",
+          "name": "0076.png",
+          "thumb": "thumbs/cat 010 portraits03/0076.png"
+        },
+        {
+          "type": "file",
+          "name": "0077.png",
+          "thumb": "thumbs/cat 010 portraits03/0077.png"
+        },
+        {
+          "type": "file",
+          "name": "0078.png",
+          "thumb": "thumbs/cat 010 portraits03/0078.png"
+        },
+        {
+          "type": "file",
+          "name": "0079.png",
+          "thumb": "thumbs/cat 010 portraits03/0079.png"
+        },
+        {
+          "type": "file",
+          "name": "0080.png",
+          "thumb": "thumbs/cat 010 portraits03/0080.png"
+        },
+        {
+          "type": "file",
+          "name": "0081.png",
+          "thumb": "thumbs/cat 010 portraits03/0081.png"
+        },
+        {
+          "type": "file",
+          "name": "0082.png",
+          "thumb": "thumbs/cat 010 portraits03/0082.png"
+        },
+        {
+          "type": "file",
+          "name": "0083.png",
+          "thumb": "thumbs/cat 010 portraits03/0083.png"
+        },
+        {
+          "type": "file",
+          "name": "0084.png",
+          "thumb": "thumbs/cat 010 portraits03/0084.png"
+        },
+        {
+          "type": "file",
+          "name": "0085.png",
+          "thumb": "thumbs/cat 010 portraits03/0085.png"
+        },
+        {
+          "type": "file",
+          "name": "0086.png",
+          "thumb": "thumbs/cat 010 portraits03/0086.png"
+        },
+        {
+          "type": "file",
+          "name": "0087.png",
+          "thumb": "thumbs/cat 010 portraits03/0087.png"
+        },
+        {
+          "type": "file",
+          "name": "0088.png",
+          "thumb": "thumbs/cat 010 portraits03/0088.png"
+        },
+        {
+          "type": "file",
+          "name": "0089.png",
+          "thumb": "thumbs/cat 010 portraits03/0089.png"
+        },
+        {
+          "type": "file",
+          "name": "0090.png",
+          "thumb": "thumbs/cat 010 portraits03/0090.png"
+        },
+        {
+          "type": "file",
+          "name": "0091.png",
+          "thumb": "thumbs/cat 010 portraits03/0091.png"
+        },
+        {
+          "type": "file",
+          "name": "0092.png",
+          "thumb": "thumbs/cat 010 portraits03/0092.png"
+        },
+        {
+          "type": "file",
+          "name": "0093.png",
+          "thumb": "thumbs/cat 010 portraits03/0093.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 011 portraits04",
+      "children": [
+        {
+          "type": "file",
+          "name": "0142.png",
+          "thumb": "thumbs/cat 011 portraits04/0142.png"
+        },
+        {
+          "type": "file",
+          "name": "0143.png",
+          "thumb": "thumbs/cat 011 portraits04/0143.png"
+        },
+        {
+          "type": "file",
+          "name": "0144.png",
+          "thumb": "thumbs/cat 011 portraits04/0144.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 012 hand",
+      "children": [
+        {
+          "type": "file",
+          "name": "0220.png",
+          "thumb": "thumbs/cat 012 hand/0220.png"
+        },
+        {
+          "type": "file",
+          "name": "0221.png",
+          "thumb": "thumbs/cat 012 hand/0221.png"
+        },
+        {
+          "type": "file",
+          "name": "0222.png",
+          "thumb": "thumbs/cat 012 hand/0222.png"
+        },
+        {
+          "type": "file",
+          "name": "0223.png",
+          "thumb": "thumbs/cat 012 hand/0223.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 013 dressed",
+      "children": [
+        {
+          "type": "file",
+          "name": "0114.png",
+          "thumb": "thumbs/cat 013 dressed/0114.png"
+        },
+        {
+          "type": "file",
+          "name": "0115.png",
+          "thumb": "thumbs/cat 013 dressed/0115.png"
+        },
+        {
+          "type": "file",
+          "name": "0116.png",
+          "thumb": "thumbs/cat 013 dressed/0116.png"
+        },
+        {
+          "type": "file",
+          "name": "0117.png",
+          "thumb": "thumbs/cat 013 dressed/0117.png"
+        },
+        {
+          "type": "file",
+          "name": "0118.png",
+          "thumb": "thumbs/cat 013 dressed/0118.png"
+        },
+        {
+          "type": "file",
+          "name": "0119.png",
+          "thumb": "thumbs/cat 013 dressed/0119.png"
+        },
+        {
+          "type": "file",
+          "name": "0120.png",
+          "thumb": "thumbs/cat 013 dressed/0120.png"
+        },
+        {
+          "type": "file",
+          "name": "0121.png",
+          "thumb": "thumbs/cat 013 dressed/0121.png"
+        },
+        {
+          "type": "file",
+          "name": "0122.png",
+          "thumb": "thumbs/cat 013 dressed/0122.png"
+        },
+        {
+          "type": "file",
+          "name": "0123.png",
+          "thumb": "thumbs/cat 013 dressed/0123.png"
+        },
+        {
+          "type": "file",
+          "name": "0124.png",
+          "thumb": "thumbs/cat 013 dressed/0124.png"
+        },
+        {
+          "type": "file",
+          "name": "0125.png",
+          "thumb": "thumbs/cat 013 dressed/0125.png"
+        },
+        {
+          "type": "file",
+          "name": "0126.png",
+          "thumb": "thumbs/cat 013 dressed/0126.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 014 abstract02",
+      "children": [
+        {
+          "type": "file",
+          "name": "0224.png",
+          "thumb": "thumbs/cat 014 abstract02/0224.png"
+        },
+        {
+          "type": "file",
+          "name": "0225.png",
+          "thumb": "thumbs/cat 014 abstract02/0225.png"
+        },
+        {
+          "type": "file",
+          "name": "0226.png",
+          "thumb": "thumbs/cat 014 abstract02/0226.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 015 person black red",
+      "children": [
+        {
+          "type": "file",
+          "name": "0016.png",
+          "thumb": "thumbs/cat 015 person black red/0016.png"
+        },
+        {
+          "type": "file",
+          "name": "0017.png",
+          "thumb": "thumbs/cat 015 person black red/0017.png"
+        },
+        {
+          "type": "file",
+          "name": "0018.png",
+          "thumb": "thumbs/cat 015 person black red/0018.png"
+        },
+        {
+          "type": "file",
+          "name": "0019.png",
+          "thumb": "thumbs/cat 015 person black red/0019.png"
+        },
+        {
+          "type": "file",
+          "name": "0020.png",
+          "thumb": "thumbs/cat 015 person black red/0020.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 016 floppy",
+      "children": [
+        {
+          "type": "file",
+          "name": "0109.png",
+          "thumb": "thumbs/cat 016 floppy/0109.png"
+        },
+        {
+          "type": "file",
+          "name": "0110.png",
+          "thumb": "thumbs/cat 016 floppy/0110.png"
+        },
+        {
+          "type": "file",
+          "name": "0111.png",
+          "thumb": "thumbs/cat 016 floppy/0111.png"
+        },
+        {
+          "type": "file",
+          "name": "0112.png",
+          "thumb": "thumbs/cat 016 floppy/0112.png"
+        },
+        {
+          "type": "file",
+          "name": "0113.png",
+          "thumb": "thumbs/cat 016 floppy/0113.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 017 portraits05",
+      "children": [
+        {
+          "type": "file",
+          "name": "0227.png",
+          "thumb": "thumbs/cat 017 portraits05/0227.png"
+        },
+        {
+          "type": "file",
+          "name": "0228.png",
+          "thumb": "thumbs/cat 017 portraits05/0228.png"
+        },
+        {
+          "type": "file",
+          "name": "0229.png",
+          "thumb": "thumbs/cat 017 portraits05/0229.png"
+        },
+        {
+          "type": "file",
+          "name": "0230.png",
+          "thumb": "thumbs/cat 017 portraits05/0230.png"
+        },
+        {
+          "type": "file",
+          "name": "0231.png",
+          "thumb": "thumbs/cat 017 portraits05/0231.png"
+        },
+        {
+          "type": "file",
+          "name": "0232.png",
+          "thumb": "thumbs/cat 017 portraits05/0232.png"
+        },
+        {
+          "type": "file",
+          "name": "0233.png",
+          "thumb": "thumbs/cat 017 portraits05/0233.png"
+        },
+        {
+          "type": "file",
+          "name": "0234.png",
+          "thumb": "thumbs/cat 017 portraits05/0234.png"
+        },
+        {
+          "type": "file",
+          "name": "0235.png",
+          "thumb": "thumbs/cat 017 portraits05/0235.png"
+        },
+        {
+          "type": "file",
+          "name": "0236.png",
+          "thumb": "thumbs/cat 017 portraits05/0236.png"
+        },
+        {
+          "type": "file",
+          "name": "0237.png",
+          "thumb": "thumbs/cat 017 portraits05/0237.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 018 portraits06",
+      "children": [
+        {
+          "type": "file",
+          "name": "0002.png",
+          "thumb": "thumbs/cat 018 portraits06/0002.png"
+        },
+        {
+          "type": "file",
+          "name": "0003.png",
+          "thumb": "thumbs/cat 018 portraits06/0003.png"
+        },
+        {
+          "type": "file",
+          "name": "0004.png",
+          "thumb": "thumbs/cat 018 portraits06/0004.png"
+        },
+        {
+          "type": "file",
+          "name": "0005.png",
+          "thumb": "thumbs/cat 018 portraits06/0005.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 019 polaroids",
+      "children": [
+        {
+          "type": "file",
+          "name": "0216.png",
+          "thumb": "thumbs/cat 019 polaroids/0216.png"
+        },
+        {
+          "type": "file",
+          "name": "0217.png",
+          "thumb": "thumbs/cat 019 polaroids/0217.png"
+        },
+        {
+          "type": "file",
+          "name": "0218.png",
+          "thumb": "thumbs/cat 019 polaroids/0218.png"
+        },
+        {
+          "type": "file",
+          "name": "0219.png",
+          "thumb": "thumbs/cat 019 polaroids/0219.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 020 a story",
+      "children": [
+        {
+          "type": "file",
+          "name": "0094.png",
+          "thumb": "thumbs/cat 020 a story/0094.png"
+        },
+        {
+          "type": "file",
+          "name": "0095.png",
+          "thumb": "thumbs/cat 020 a story/0095.png"
+        },
+        {
+          "type": "file",
+          "name": "0096.png",
+          "thumb": "thumbs/cat 020 a story/0096.png"
+        },
+        {
+          "type": "file",
+          "name": "0097.png",
+          "thumb": "thumbs/cat 020 a story/0097.png"
+        },
+        {
+          "type": "file",
+          "name": "0098.png",
+          "thumb": "thumbs/cat 020 a story/0098.png"
+        },
+        {
+          "type": "file",
+          "name": "0099.png",
+          "thumb": "thumbs/cat 020 a story/0099.png"
+        },
+        {
+          "type": "file",
+          "name": "0100.png",
+          "thumb": "thumbs/cat 020 a story/0100.png"
+        },
+        {
+          "type": "file",
+          "name": "0101.png",
+          "thumb": "thumbs/cat 020 a story/0101.png"
+        },
+        {
+          "type": "file",
+          "name": "0102.png",
+          "thumb": "thumbs/cat 020 a story/0102.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 021 bandw arch",
+      "children": [
+        {
+          "type": "file",
+          "name": "0207.png",
+          "thumb": "thumbs/cat 021 bandw arch/0207.png"
+        },
+        {
+          "type": "file",
+          "name": "0208.png",
+          "thumb": "thumbs/cat 021 bandw arch/0208.png"
+        },
+        {
+          "type": "file",
+          "name": "0209.png",
+          "thumb": "thumbs/cat 021 bandw arch/0209.png"
+        },
+        {
+          "type": "file",
+          "name": "0210.png",
+          "thumb": "thumbs/cat 021 bandw arch/0210.png"
+        },
+        {
+          "type": "file",
+          "name": "0211.png",
+          "thumb": "thumbs/cat 021 bandw arch/0211.png"
+        },
+        {
+          "type": "file",
+          "name": "0212.png",
+          "thumb": "thumbs/cat 021 bandw arch/0212.png"
+        },
+        {
+          "type": "file",
+          "name": "0213.png",
+          "thumb": "thumbs/cat 021 bandw arch/0213.png"
+        },
+        {
+          "type": "file",
+          "name": "0214.png",
+          "thumb": "thumbs/cat 021 bandw arch/0214.png"
+        },
+        {
+          "type": "file",
+          "name": "0215.png",
+          "thumb": "thumbs/cat 021 bandw arch/0215.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 022 red portrait",
+      "children": [
+        {
+          "type": "file",
+          "name": "0157.png",
+          "thumb": "thumbs/cat 022 red portrait/0157.png"
+        },
+        {
+          "type": "file",
+          "name": "0158.png",
+          "thumb": "thumbs/cat 022 red portrait/0158.png"
+        },
+        {
+          "type": "file",
+          "name": "0159.png",
+          "thumb": "thumbs/cat 022 red portrait/0159.png"
+        },
+        {
+          "type": "file",
+          "name": "0160.png",
+          "thumb": "thumbs/cat 022 red portrait/0160.png"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "cat 024 div",
+      "children": [
+        {
+          "type": "file",
+          "name": "0001.png",
+          "thumb": "thumbs/cat 024 div/0001.png"
+        },
+        {
+          "type": "file",
+          "name": "0238.png",
+          "thumb": "thumbs/cat 024 div/0238.png"
+        },
+        {
+          "type": "file",
+          "name": "0239.png",
+          "thumb": "thumbs/cat 024 div/0239.png"
+        }
+      ]
+    }
+  ]
+}

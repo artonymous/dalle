@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>artonymousart :: DALL-E :: Image Archive</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --win-bg: #008080;         /* Windows 3.11 teal */
+      --win-face: #C0C0C0;       /* Window body */
+      --win-highlight: #000080;  /* Title bar */
+      --win-text: #FFFFFF;       /* Title text */
+      --win-border: #000000;     /* Border */
+      --shadow: rgba(0,0,0,.7);
+    }
+
+    *{box-sizing:border-box;margin:0;padding:0;font-family:"Press Start 2P",monospace;}
+    body{background:var(--win-bg);color:#000;padding:1rem;}
+
+    /* window frame */
+    .window{border:2px solid var(--win-border);background:var(--win-face);padding:0.5rem;}
+    h1{color:#FFFF00;text-shadow:2px 2px var(--win-border);font-size:1.25rem;margin-bottom:1rem;}
+
+    /* categories */
+    .category{margin-bottom:1rem;border:2px solid var(--win-border);background:var(--win-face);}    
+    .category>h2{background:var(--win-highlight);color:var(--win-text);font-size:0.65rem;padding:0.25rem 0.5rem;cursor:pointer;display:flex;align-items:center;gap:0.4rem;user-select:none;}
+    .category>h2::before{content:"-";width:0.8rem;text-align:center;}
+    .gallery{display:grid;padding:0.6rem;gap:0.5rem;grid-template-columns:repeat(auto-fill,minmax(100px,1fr));}
+    .gallery img{width:100%;border:1px solid var(--win-border);image-rendering:pixelated;transition:transform .1s;cursor:pointer;}
+    .gallery img:hover{transform:scale(1.05);}    
+
+    /* lightbox */
+    #lb-overlay{position:fixed;inset:0;background:var(--shadow);display:none;align-items:center;justify-content:center;z-index:9999;}
+    .lb-window{border:2px solid var(--win-border);background:var(--win-face);max-width:95vw;max-height:95vh;display:flex;flex-direction:column;overflow:hidden;}
+    .lb-title{background:var(--win-highlight);color:var(--win-text);font-size:0.65rem;padding:0.25rem 0.5rem;display:flex;justify-content:space-between;align-items:center;}
+    .lb-title span{cursor:pointer;}
+    .lb-body{flex:1;display:flex;align-items:center;justify-content:center;padding:0.5rem;overflow:hidden;}
+    .lb-body img{max-width:90vw;max-height:90vh;width:auto;height:auto;object-fit:contain;image-rendering:auto;}
+  </style>
+</head>
+<body>
+  <div class="window">
+    <h1>artonymousart :: DALL-E :: Image Archive</h1>
+    <div id="container">Loading…</div>
+  </div>
+
+  <!-- lightbox scaffold -->
+  <div id="lb-overlay" aria-hidden="true">
+    <div class="lb-window">
+      <div class="lb-title">Preview <span id="lb-close">[X]</span></div>
+      <div class="lb-body"><img id="lb-img" src="" alt="preview"></div>
+    </div>
+  </div>
+
+  <!-- inline fallback JSON left empty -->
+  <script id="fs" type="application/json"></script>
+
+  <script>
+    /* ----- quotes (sample) ----- */
+    const QUOTES=["Attention is all you need, memory is all you keep.","Parameter-efficient fine-tuning reaches full-model parity at 0.5% trainable weights.","Gradient noise scale inversely correlates with in-context learning capacity.","Scaling width vs depth shows iso-compute Pareto frontier shifts after 10B params.","Loss landscapes flatten after SWA-style checkpoint averaging.","Induction heads bootstrap in-context algorithm learning.","Dynamic token pruning keeps 97% accuracy at 60% compute.","Energy-based priors constrain logits toward valid program syntax."]; // trimmed list for brevity
+
+    /* ----- helpers ----- */
+    const ROOT=window.location.pathname.replace(/\/index.html$/,'');
+    function safe(p){return encodeURI(p);}
+    function addParents(n,p=null){n.parent=p;(n.children||[]).forEach(c=>addParents(c,n));}
+    function nodePath(n){const parts=[];let cur=n;while(cur.parent){parts.unshift(cur.name);cur=cur.parent;}return parts.join('/');}
+    function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}}
+    function randomQuote(){return QUOTES[Math.floor(Math.random()*QUOTES.length)];}
+
+    /* ----- build gallery ----- */
+    function buildGallery(folder,gal){(folder.children||[]).forEach(ch=>{
+      if(ch.type==='file'){
+        const full=safe(nodePath(ch));
+        const thumb=safe(ch.thumb||full);
+        const img=new Image();
+        img.src=thumb;
+        img.alt=ch.name;
+        img.onclick=()=>openLightbox(full,ch.name);
+        gal.appendChild(img);
+      }else if(ch.type==='folder'){
+        buildGallery(ch,gal);
+      }
+    });}
+
+    function createCategory(folder,root){const sec=document.createElement('section');sec.className='category';const h2=document.createElement('h2');h2.textContent=randomQuote();h2.onclick=()=>sec.classList.toggle('collapsed');const gal=document.createElement('div');gal.className='gallery';buildGallery(folder,gal);sec.appendChild(h2);sec.appendChild(gal);root.appendChild(sec);}  
+
+    /* ----- lightbox ----- */
+    const overlay=document.getElementById('lb-overlay');
+    const lbImg=document.getElementById('lb-img');
+    const lbClose=document.getElementById('lb-close');
+    function openLightbox(src,alt){lbImg.src=src;lbImg.alt=alt;overlay.style.display='flex';overlay.setAttribute('aria-hidden','false');}
+    function closeLB(){overlay.style.display='none';overlay.setAttribute('aria-hidden','true');lbImg.src='';}
+    lbClose.onclick=overlay.onclick=closeLB;
+
+    /* ----- load JSON ----- */
+    async function loadJSON(){try{const res=await fetch(safe('file_structure.json'),{cache:'no-store'});if(!res.ok)throw new Error(res.status);return res.json();}catch(e){const inline=document.getElementById('fs');if(inline.textContent.trim())return JSON.parse(inline.textContent);throw e;}}
+
+    /* ----- init ----- */
+    window.addEventListener('DOMContentLoaded',async()=>{
+      const cont=document.getElementById('container');
+      try{
+        const data=await loadJSON();addParents(data);
+        const folders=(data.children||[]).filter(c=>c.type==='folder');shuffle(folders);
+        cont.innerHTML='';folders.forEach(f=>createCategory(f,cont));
+      }catch(e){cont.innerHTML='<p style="color:red">Failed to load 😢</p>';console.error(e);}  
+    });
+  </script>
+</body>
+</html>
